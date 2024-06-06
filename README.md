@@ -6,9 +6,11 @@
 2. Install dependencies:
 ```pip install pandas numpy matplotlib requests seaborn openpyxl jupyter```
 
-3. Run each cell in the air_pollution_hammersmith jupyter notebook starting in the `styling and imports` section. Note: some files are very large and will take some time to load
+3. Please open in Jupyter Notebook on your browser, so that you can see colours and sections
 
-4. The API request is commented out as the data has already been saved. To test the API response, uncomment the text. You will need to add an API key from: https://openweathermap.org/api 
+4. Run each cell in the air_pollution_hammersmith jupyter notebook starting in the `styling and imports` section. Note: some files are very large and will take some time to load
+
+5. The API request is commented out as the data has already been saved. To test the API response, uncomment the text. You will need to add an API key from: https://openweathermap.org/api 
 
 ## Organistation of notebook
 - The notebook is organised into 5 main sections:
