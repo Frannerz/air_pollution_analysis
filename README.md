@@ -13,8 +13,6 @@
 5. The API request is commented out as the data has already been saved. To test the API response, uncomment the text. You will need to add an API key from: https://openweathermap.org/api 
 
 ## Organistation of notebook
-![image](https://github.com/Frannerz/air_pollution_analysis/assets/124707247/e8d6ba80-d696-45e6-9a22-2ccd050b6ac5)
-
 - The notebook is organised into 6 main sections:
     1. Styling and imports
     2. Data loading and cleaning
@@ -22,6 +20,9 @@
     4. Sub-question 2: What has been the impact of schemes such as ULEZ and Covid on reducing air pollution and how can this inform future policies?
     5. Sub-question 3: What is the impact of air pollution on our health and the NHS?
     6. Summary of findings and recommendations
+
+![image](https://github.com/Frannerz/air_pollution_analysis/assets/124707247/e8d6ba80-d696-45e6-9a22-2ccd050b6ac5)
+
 - Each section is collapsed under a `<h2>` orange heading and should expand when you run the code
 - Within each section, you will find smaller sub-questions in yellow. These are also headings and can be expanded and collapsed
 - Further guideposts are in purple to organise longer sections of code
