@@ -13,14 +13,16 @@
 5. The API request is commented out as the data has already been saved. To test the API response, uncomment the text. You will need to add an API key from: https://openweathermap.org/api 
 
 ## Organistation of notebook
-- The notebook is organised into 5 main sections:
+- The notebook is organised into 6 main sections:
     1. Styling and imports
     2. Data loading and cleaning
     3. Sub-question 1: What is the main cause of air pollution in the borough and what factors are influencing levels of pollutants?
     4. Sub-question 2: What has been the impact of schemes such as ULEZ and Covid on reducing air pollution and how can this inform future policies?
     5. Sub-question 3: What is the impact of air pollution on our health and the NHS?
+    6. Summary of findings and recommendations
 - Each section is collapsed under a `<h2>` orange heading and should expand when you run the code
 - Within each section, you will find smaller sub-questions in yellow. These are also headings and can be expanded and collapsed
 - Further guideposts are in purple to organise longer sections of code
 - Any observations or notes are in blue
+- A final summary and recommendations can be found in pink in the final section. These link to the results and conclusion in our report.
     
